@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CocopodTest"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "测试一下创建私有库"
 
   # This description is used to generate tags and improve search results.
@@ -26,6 +26,8 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
                   创建私有库的测试
+创建私有库的测试
+创建私有库的测试创建私有库的测试
                    DESC
 
   s.homepage     = "https://github.com/dingmian826/CocopodTest.git"
