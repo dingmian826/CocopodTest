@@ -25,6 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
+                  创建私有库的测试
                    DESC
 
   s.homepage     = "https://github.com/dingmian826/CocopodTest.git"
